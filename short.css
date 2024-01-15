@@ -1,0 +1,25 @@
+.sidebar {
+    background-color: #6C3428;
+    padding: 10px;
+    width: 200px;
+    height: 100vh;
+    float: left;
+}
+
+.content {
+    margin-left: 200px;
+    padding: 20px;
+}
+.navigation-buttons button {
+    background-color: #994D1C; /* Boutons marron */
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.navigation-buttons button:hover {
+    background-color: #E48F45;
+}
